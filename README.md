@@ -2,7 +2,7 @@
 
 - Full Stack Developer, gaming enthusiast, dog dad
 - Currently working on: Adding extra features to my Wordle-Clone (changing word size, remove letters from individual spaces)
-- Learning next: Typescript, Next.js
+- Learning next: Typescript, Next.js and React Native
 
 ## What's Next
 I'm on the hunt for a job that lets me dive into new skills and constantly learn the ropes. Whether it's full-stack, front-end, or back-end web and mobile development, I want a role that aligns with my experience and challenges me to keep growing.
