@@ -41,6 +41,7 @@ Please reach out on [LinkedIn](https://www.linkedin.com/in/gabrieljimenez-ny/) i
 - [LinkedIn](https://www.linkedin.com/in/gabrieljimenez-ny/) 💼 
 
 ### Software Projects
+- [TodoApp](https://github.com/G4be34/TodoApp) 📋 (Most Recent) 
 - [ViceRoy Cryptocurrency Trading](https://github.com/BleachedBlueOcean/ViceRoy) 💰	
 - [Wordle-Clone](https://github.com/G4be34/Wordle-Clone) 🔠	
 - [Project Atelier](https://github.com/Pasteque-Performers/pp-atelier) 🛍️
