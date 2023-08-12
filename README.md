@@ -2,7 +2,7 @@
 
 - Full Stack Developer, gaming enthusiast, dog dad
 - Currently working on: Adding extra features to my Wordle-Clone (changing word size, remove letters from individual spaces)
-- Learning next: Typescript, Next.js and React Native
+- Learning next: Typescript and React Native
 
 ## What's Next
 I'm on the hunt for a job that lets me dive into new skills and constantly learn the ropes. Whether it's full-stack, front-end, or back-end web and mobile development, I want a role that aligns with my experience and challenges me to keep growing.
@@ -18,6 +18,7 @@ Please reach out on [LinkedIn](https://www.linkedin.com/in/gabrieljimenez-ny/) i
 
 ### Front-End
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
